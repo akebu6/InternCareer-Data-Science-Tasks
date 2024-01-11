@@ -1,4 +1,4 @@
-# InternCareer-Data-Science-Tasks
+# InternCareer: Data Science Tasks
 Repo for my tasks for the data science internship with InternCareer
 
 ## Task 1: YouTube Streamer Analysis
