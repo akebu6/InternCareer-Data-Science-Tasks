@@ -2,8 +2,8 @@
 Repo for my tasks for the data science internship with InternCareer
 
 ## Task 1: YouTube Streamer Analysis
-**Dataset:** Top 1000 Youtubers statistics
-**Description:** This dataset contains valuable information about the top YouTube streamers, including their ranking, categories, subscribers, country, visits, likes, comments, and more. Your task is to perform a comprehensive analysis of the dataset to extract insights about the top YouTube content creators.
+- **Dataset:** Top 1000 Youtubers statistics
+- **Description:** This dataset contains valuable information about the top YouTube streamers, including their ranking, categories, subscribers, country, visits, likes, comments, and more. Your task is to perform a comprehensive analysis of the dataset to extract insights about the top YouTube content creators.
 
 ## Task 2: Power BI Dashboard Creation - Terrorism Database
 **Description:** The Terrorism Database contains information about terrorist attacks worldwide. It includes details such as the date, location, attack type,
