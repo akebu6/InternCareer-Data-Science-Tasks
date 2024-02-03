@@ -18,3 +18,9 @@ weapons used, number of casualties, and responsible groups. Your task is to crea
 - **Tools Used:** Tableau
 
 ### Approach
+
+
+#### Dashboard Screenshots
+<img width="500" alt="Screenshot 2024-02-03 at 6 31 50 PM" src="https://github.com/akebu6/InternCareer-Data-Science-Tasks/assets/74776297/be45c815-bfbe-4183-b876-01f827e02f87">
+<img width="500" alt="Screenshot 2024-02-03 at 6 32 22 PM" src="https://github.com/akebu6/InternCareer-Data-Science-Tasks/assets/74776297/277fc4a2-00ae-4a4e-950d-3d6aa9540b10">
+
