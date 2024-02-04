@@ -4,7 +4,7 @@ Repo for my tasks for the data science internship with InternCareer
 ## Task 1: YouTube Streamer Analysis
 - **Dataset:** Top 1000 Youtubers statistics
 - **Description:** This dataset contains valuable information about the top YouTube streamers, including their ranking, categories, subscribers, country, visits, likes, comments, and more. Your task is to perform a comprehensive analysis of the dataset to extract insights about the top YouTube content creators.
-- **Tools Used:** R Programming
+- **Tools Used:** R Programming & Kaggle
 
 ### Approach
 In order to solve this task, I had to take time to actually understand what the problem was and how I would go about it. The following was how I approached the projects:
