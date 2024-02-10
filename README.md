@@ -18,6 +18,9 @@ In order to solve this task, I had to take time to actually understand what the 
 weapons used, number of casualties, and responsible groups. Your task is to create a Power BI dashboard that provides a comprehensive overview of global terrorism trends and patterns.
 - **Tools Used:** Power BI
 
+### Side Note
+To run this project, the Global Terrorism Dashboard, you need to use Microsft Power BI
+
 ### Approach
 
 
