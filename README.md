@@ -1,3 +1,5 @@
+<img width="850" alt="Screenshot 2024-02-10 at 1 18 06 PM" src="https://github.com/akebu6/InternCareer-Data-Science-Tasks/assets/74776297/ba716b8a-8016-40d9-885f-cbfc0d22824c">
+
 # InternCareer: Data Science Tasks
 Repo for my tasks for the data science internship with InternCareer
 
