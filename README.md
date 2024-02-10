@@ -35,5 +35,3 @@ To run this project, the Global Terrorism Dashboard, you need to use Microsft Po
   <img width="500" alt="Screenshot 2024-02-03 at 6 32 22 PM" src="https://github.com/akebu6/InternCareer-Data-Science-Tasks/assets/74776297/277fc4a2-00ae-4a4e-950d-3d6aa9540b10">
   <img width="500" alt="Screenshot 2024-02-03 at 6 32 34 PM" src="https://github.com/akebu6/InternCareer-Data-Science-Tasks/assets/74776297/90133e11-4687-4da9-92de-370f0e081c44">
   <img width="500" alt="Screenshot 2024-02-03 at 6 32 44 PM" src="https://github.com/akebu6/InternCareer-Data-Science-Tasks/assets/74776297/5efe34e9-dee8-4a12-9116-d04906fa862d"></details>
-
-
