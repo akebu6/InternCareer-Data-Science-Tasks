@@ -22,7 +22,9 @@ weapons used, number of casualties, and responsible groups. Your task is to crea
 To run this project, the Global Terrorism Dashboard, you need to use Microsft Power BI
 
 ### Approach
-
+1. Picking a tool, either Tableau or Power Bi and the tool selected was Power BI
+2. Once the tool was selected, the next step was learning how to use it by cleaning the data and only selecting the necessary fields
+3. The selected fields included: Year, Contry, Weapon Type, Target Type, Attack Type, Nationality, Region and Success Rate
 
 #### Dashboard Screenshots
 <details>
